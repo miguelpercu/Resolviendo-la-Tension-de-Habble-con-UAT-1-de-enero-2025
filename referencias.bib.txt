@@ -1,0 +1,140 @@
+@article{planck2018,
+    author = {{Planck Collaboration}},
+    title = {Planck 2018 results. VI. Cosmological parameters},
+    journal = {Astronomy \& Astrophysics},
+    volume = {641},
+    pages = {A6},
+    year = {2020},
+    doi = {10.1051/0004-6361/201833910}
+}
+
+@article{riess2022,
+    author = {Riess, Adam G. and Yuan, Wenlong and Macri, Lucas M. and others},
+    title = {A Comprehensive Measurement of the Local Value of the Hubble Constant with 1 km/s/Mpc Uncertainty from the Hubble Space Telescope and the SH0ES Team},
+    journal = {The Astrophysical Journal Letters},
+    volume = {934},
+    number = {1},
+    pages = {L7},
+    year = {2022},
+    doi = {10.3847/2041-8213/ac5c5b}
+}
+
+@article{alam2017,
+    author = {Alam, Shadab and {BOSS Collaboration}},
+    title = {The clustering of galaxies in the completed SDSS-III Baryon Oscillation Spectroscopic Survey: cosmological analysis of the DR12 galaxy sample},
+    journal = {Monthly Notices of the Royal Astronomical Society},
+    volume = {470},
+    number = {3},
+    pages = {2617--2652},
+    year = {2017},
+    doi = {10.1093/mnras/stx721}
+}
+
+@article{eboss2020,
+    author = {{eBOSS Collaboration}},
+    title = {Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: cosmological implications from two decades of spectroscopic surveys at the Apache Point Observatory},
+    journal = {Physical Review D},
+    volume = {103},
+    number = {8},
+    pages = {083533},
+    year = {2021},
+    doi = {10.1103/PhysRevD.103.083533}
+}
+
+@article{pantheonplus2022,
+    author = {Brout, Dillon and Scolnic, Dan and Popovic, Brodie and others},
+    title = {The Pantheon+ Analysis: Cosmological Constraints},
+    journal = {The Astrophysical Journal},
+    volume = {938},
+    number = {2},
+    pages = {110},
+    year = {2022},
+    doi = {10.3847/1538-4357/ac8e04}
+}
+
+@article{poulin2019,
+    author = {Poulin, Vivian and Smith, Tristan L. and Karwal, Tanvi and Kamionkowski, Marc},
+    title = {Early Dark Energy can resolve the Hubble tension},
+    journal = {Physical Review Letters},
+    volume = {122},
+    number = {22},
+    pages = {221301},
+    year = {2019},
+    doi = {10.1103/PhysRevLett.122.221301}
+}
+
+@article{perivolaropoulos2022,
+    author = {Perivolaropoulos, Leandros and Skara, Foteini},
+    title = {Challenges for $\Lambda$CDM: An update},
+    journal = {New Astronomy Reviews},
+    volume = {95},
+    pages = {101659},
+    year = {2022},
+    doi = {10.1016/j.newar.2022.101659}
+}
+
+@article{knox2020,
+    author = {Knox, Lloyd and Millea, Marius},
+    title = {Hubble constant hunter's guide},
+    journal = {Physical Review D},
+    volume = {101},
+    number = {4},
+    pages = {043533},
+    year = {2020},
+    doi = {10.1103/PhysRevD.101.043533}
+}
+
+@article{aubourg2015,
+    author = {Aubourg, {\'E}ric and Bailey, Stephen and Bautista, Julian E. and others},
+    title = {Cosmological implications of baryon acoustic oscillation measurements},
+    journal = {Physical Review D},
+    volume = {92},
+    number = {12},
+    pages = {123516},
+    year = {2015},
+    doi = {10.1103/PhysRevD.92.123516}
+}
+
+@article{foreman2013,
+    author = {Foreman-Mackey, Daniel and Hogg, David W. and Lang, Dustin and Goodman, Jonathan},
+    title = {emcee: The MCMC Hammer},
+    journal = {Publications of the Astronomical Society of the Pacific},
+    volume = {125},
+    number = {925},
+    pages = {306--312},
+    year = {2013},
+    doi = {10.1086/670067}
+}
+
+@article{barbero1995,
+    author = {Barbero, G.},
+    title = {Real Ashtekar variables for Lorentzian signature space-times},
+    journal = {Physical Review D},
+    volume = {51},
+    number = {10},
+    pages = {5507--5510},
+    year = {1995},
+    doi = {10.1103/PhysRevD.51.5507}
+}
+
+@article{immirzi1997,
+    author = {Immirzi, Giorgio},
+    title = {Real and complex connections for canonical gravity},
+    journal = {Classical and Quantum Gravity},
+    volume = {14},
+    number = {10},
+    pages = {L177--L181},
+    year = {1997},
+    doi = {10.1088/0264-9381/14/10/002}
+}
+
+@article{kass1995,
+    author = {Kass, Robert E. and Raftery, Adrian E.},
+    title = {Bayes Factors},
+    journal = {Journal of the American Statistical Association},
+    volume = {90},
+    number = {430},
+    pages = {773--795},
+    year = {1995},
+    doi = {10.1080/01621459.1995.10476572}
+}
